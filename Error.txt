@@ -1,0 +1,32 @@
+
+Insert Failed:2014-47-07 12:47:31
+Details:
+	Crwaler UF failed:
+ 	 	.\config.properties (The system cannot find the file specified)
+	Reason config File not found!!
+######################################
+
+
+Insert Failed:2014-49-07 12:49:43
+Details:
+	Crwaler UF failed:
+ 	 	.\config.properties (The system cannot find the file specified)
+	Reason config File not found!!
+######################################
+
+
+Insert Failed:2014-49-07 12:49:56
+Details:
+	Crwaler UF failed:
+ 	 	.\config.properties (The system cannot find the file specified)
+	Reason config File not found!!
+######################################
+
+
+Insert Failed:2014-50-07 12:50:50
+Details:
+	Insert.java  failed:
+ 	 	.\config.properties (The system cannot find the file specified)
+	Reason config File not found!!
+######################################
+
